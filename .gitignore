@@ -1,0 +1,7 @@
+# build junk
+/dist
+/build
+
+/posters
+*.json
+*.env
